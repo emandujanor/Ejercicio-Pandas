@@ -16,7 +16,7 @@ li{
   color: white;
 }
 a{
-  color:whitesmoke;
+  color:white;
   text-decoration:none;
   padding: 10px;
 }
@@ -43,4 +43,52 @@ a:hover{
   width: 80%;
   height: auto;
   margin: 0 auto;
+}
+#pandaUno{
+  width:200px;
+  height: 200px;
+  border-color: #5978f2;
+  border: solid 3px;
+  background-image: url("../img/panda.jpg");
+  display:inline-block;
+  border-radius: 100px;
+}
+#pandaDos{
+  width:200px;
+  height: 200px;
+  border-color: #5978f2;
+  border: solid 3px;
+  background-image: url("../img/panda2.jpg");
+  display:inline-block;
+  border-radius: 100px;
+}
+#pandaTres{
+  width:200px;
+  height: 200px;
+  border-color: #5978f2;
+  border: solid 3px;
+  background-image: url("../img/panda3.jpg");
+  display:inline-block;
+  border-radius: 100px;
+}
+#pandaCuatro{
+  width:200px;
+  height: 200px;
+  border-color: #5978f2;
+  border: solid 3px;
+  background-image: url("../img/panda4.jpg");
+  display:inline-block;
+  border-radius: 100px;
+}
+.cerrar{
+  font-size: 30px;
+  color:white;
+  font-weight: bold;
+  position:fixed;
+  padding: 0px;
+  margin: 5px;
+}
+.cerrar:hover{
+  color:red;
+
 }
