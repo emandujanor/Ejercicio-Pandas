@@ -1,0 +1,46 @@
+body{
+  background-color: #000;
+  margin:0px;
+}
+ul{
+  margin:0px;
+  background-color:#067081;
+}
+
+li{
+  display: inline-block;
+  padding:20px;
+  list-style: none;
+  font-family: 'Philosopher', sans-serif;
+  font-size: 20px;
+  color: white;
+}
+a{
+  color:whitesmoke;
+  text-decoration:none;
+  padding: 10px;
+}
+a:hover{
+  color:#04B4AE;
+}
+.botonesContenedor{
+  width: 80%;
+  margin: 0px auto;
+}
+.texto{
+  font-family: 'Philosopher', sans-serif;
+  font-size: 15px;
+  color: white;
+  background-color: #067081;
+  display: inline-block;
+  width:23%;
+  margin-left: 10px;
+  padding: 10px;
+  align-items: center;
+
+}
+.imgContenedor{
+  width: 80%;
+  height: auto;
+  margin: 0 auto;
+}
