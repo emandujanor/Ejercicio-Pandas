@@ -84,11 +84,27 @@ a:hover{
   font-size: 30px;
   color:white;
   font-weight: bold;
-  position:fixed;
   padding: 0px;
   margin: 5px;
 }
+
 .cerrar:hover{
   color:red;
 
+}
+
+
+
+.textoContenedor{
+  width:80%;
+  color:white;
+  margin:0 auto;
+}
+.textoContenedor p{
+  width:48%;
+  display: inline-block;
+  float: left;
+  margin:0 auto;
+  padding: 10px 20px 0px 0px;
+  text-align: justify;
 }
